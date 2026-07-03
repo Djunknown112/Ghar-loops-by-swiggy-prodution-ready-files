@@ -1,0 +1,8 @@
+{
+  "name": "GharLoop",
+  "description": "A household recurring-essentials planner powered by Swiggy (Instamart, Food, Dineout only) with smart scheduling, auto-order approvals, budget tracking, and Gemini AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
